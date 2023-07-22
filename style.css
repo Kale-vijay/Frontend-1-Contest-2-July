@@ -8,6 +8,7 @@
 
 .row_1 {
     display: flex;
+    position: fixed;
     flex-direction: row;
     padding: 10px;
     align-items: flex-start;
@@ -184,7 +185,7 @@
 
 }
 .list{
-    
+
 }
 
 #1st-1 {
